@@ -5,8 +5,6 @@ https://wiki.ead.pucv.cl/Dise%C3%B1o_desde_el_C%C3%B3digo_2024
 
 Los trabajos aquí son parte de un proceso de exploración y práctica con HTML, CSS y JavaScript, aplicado a ejercicios y un proyecto final. La comunidad puede contribuir compartiendo recursos o sugerencias constructivas para fomentar el aprendizaje de los estudiantes.
 
-# Diseño desde el código 2024
-
 ## Ejercicios 
 - [Barbara Camila Arriaza](https://ead-codigo-2024.github.io/ejercicios-ArriazaAraya)
 - [Belen Amanda Briones](https://ead-codigo-2024.github.io/ejercicios-BelenAmandaBI)
